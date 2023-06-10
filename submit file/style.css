@@ -1,0 +1,45 @@
+#btn{
+    position: absolute;
+    left: 30em;
+    width: 8em;
+    height: 2em;
+    font-size: 28px;
+    top:43em;
+    background-color: red;
+    color:white;
+    border-color:red;
+}
+#btn:hover{
+    background-color: white;
+    color:red;
+    box-sizing: border-box;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    border-radius:30px;
+    transition: 0.3s ease-in-out;
+    border-color: red;
+}
+#h11{
+    position: fixed;
+    left:8em;
+    font-size: 4em;
+}
+#btn23 {
+    position: fixed;
+    width: 7%;
+    height: 7%;
+    font-size: 22px;
+    border: none;
+    outline: none;
+    top: 4vw;
+    left: 8vw;
+}
+#btn23:hover{
+    background-color: black;
+    color:white;
+    border-radius: 30px;
+    transition: 0.3s ease-in-out;
+}
+body{
+    background: linear-gradient(90deg, rgb(150, 150, 165) 0%, rgb(156, 156, 170) 35%, rgb(227, 233, 235) 100%);
+    font-family: 'Heebo', sans-serif;
+}
