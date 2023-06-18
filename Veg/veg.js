@@ -33,7 +33,7 @@ var noti = document.querySelector('h1');
 		})
 	}
 let a  = document.querySelector('.btn99').addEventListener('click',function(){
-	location.href = 'file:///C:/Users/Jasvinder%20Pal/OneDrive/Desktop/Food%20Website/index.html'
+	location.href = 'https://vansammi05.github.io/MyMeal/'
 })
 // let b  = document.getElementById('button').addEventListener('click',function(){
 // 	alert = "this item is added to cart"
